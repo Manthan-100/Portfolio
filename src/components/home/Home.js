@@ -15,7 +15,7 @@ const Home = () => {
     return (
         <div className="home-wrapper">
             <div className="home">
-                <ParticlesLoader className="particles" />
+                {/* <ParticlesLoader className="particles" /> */}
                 <div className={`greeting${!imageLoaded ? ' hide' : ''}`}>
                     <Fade bottom distance="40px">
                         <img

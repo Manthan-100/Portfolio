@@ -6,7 +6,7 @@ import { Link } from 'react-scroll'
 import Typewriter from 'typewriter-effect'
 import ArrowDropDownCircleIcon from '@material-ui/icons/ArrowDropDownCircle'
 import Navbar from '../navbar/Navbar'
-import profile from '../../images/manthan.jpeg'
+import profile from '../../images/Manthan.jpeg'
 import linkedin from '../../images/social/linkedin.png'
 import ParticlesLoader from '../ParticlesLoader'
 
